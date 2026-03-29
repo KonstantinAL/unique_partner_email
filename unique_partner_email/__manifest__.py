@@ -43,10 +43,12 @@ Supported Odoo Versions:
     'license': 'LGPL-3',
     'depends': ['base'],
     'data': [],
-    'images': ['static/description/banner.png'],
-    'icon': 'static/description/icon.png',
+    'images': [
+        'static/description/banner.png',
+        'static/description/icon.png',
+    ],
     'installable': True,
     'application': False,
     'auto_install': False,
-    'support': 'support@example.com',
+    'support': 'kosskoss59@gmail.com',
 }
